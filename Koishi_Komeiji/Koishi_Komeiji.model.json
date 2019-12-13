@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "Koishi_Komeiji",
+	"model": "Koishi_Komeiji.moc",
+	"textures": [
+		"Koishi_Komeiji.2048/texture_00.png"
+	]
+}
